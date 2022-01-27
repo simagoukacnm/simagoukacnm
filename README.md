@@ -1,1 +1,1 @@
-# simagoukacnm.github.io
+原版https://github.com/arcxingye/EatKano
